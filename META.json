@@ -1,0 +1,61 @@
+{
+  "category": "package-repositories",
+  "created_date": "2025-09-15T22:48:58.828056",
+  "default_ports": [
+    80,
+    443,
+    8080
+  ],
+  "dependencies": [],
+  "description": "pypiserver is a free and open-source Python package server. pypiserver provides minimal PyPI server for private Python packages",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/package-repositories/pypiserver",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/package-repositories/pypiserver",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.828082",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "pypiserver",
+  "repository_url": "https://github.com/howtomgr/pypiserver",
+  "spec_version": "2.0",
+  "subcategory": "package-repositories",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "package-repositories",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "pypiserver Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/package-repositories/pypiserver"
+}
